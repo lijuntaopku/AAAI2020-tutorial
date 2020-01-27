@@ -1,4 +1,5 @@
-## Creative and Artistic Writing Via Text Generation
+### Creative and Artistic Writing Via Text Generation
+Juntao Li and Rui Yan
 
 You can use the [editor on GitHub](https://github.com/lijuntaopku/AAAI2020-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
