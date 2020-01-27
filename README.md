@@ -8,33 +8,33 @@ Text generation and automatic writing have gradually been one of the frontiers f
 ### Outline for the tutorial
 1. Introduction to artistic writing
 
-1.1 History review
+    1.1 History review
 
-1.2 Recent advances
+    1.2 Recent advances
 
-1.3 Challenges and problems
+    1.3 Challenges and problems
 
 2. Background knowledge
 
-2.1. Concepts, problem formulation, and task statements 2.2. Deep learning for long text generation
+    2.1. Concepts, problem formulation, and task statements 2.2. Deep learning for long text generation
 
 3. Existing Methods
 
-3.1. Towards better evaluation for artistic writing
+    3.1. Towards better evaluation for artistic writing
 
-3.2. Better training: reinforcement learning and adversarial training
+    3.2. Better training: reinforcement learning and adversarial training
 
 4. Recent trends
 
-4.1. Multimodal generation
+    4.1. Multimodal generation
 
-4.2. Extra knowledge combination 4.3. Controllable generation
+    4.2. Extra knowledge combination 4.3. Controllable generation
 
-4.4. Cross-lingual generation
+    4.4. Cross-lingual generation
 
 5. Summary and future directions 5.1. Remaining challenges
 
-5.2. Potential solutions
+    5.2. Potential solutions
 
 
 ### Tutorial Contents
