@@ -6,20 +6,34 @@ Juntao Li and [Rui Yan](http://ruiyan.me/)
 Text generation and automatic writing have gradually been one of the frontiers for the artificial intelligence community. To facilitate the development of the text generation filed, we summarize existing researches and give an overview of their technical implementations in this tutorial. We focus on creative and artistic writing, including storytelling, poetry composition, multi-modal poetry/story generation, and lyrics creation. Moreover, we will elaborate on the "core" challenges of artistic text generation and existing advanced solutions.
 
 ### Outline for the tutorial
-1. Introduction to artistic writing\n
+1. Introduction to artistic writing
+
 1.1 History review
+
 1.2 Recent advances
+
 1.3 Challenges and problems
+
 2. Background knowledge
+
 2.1. Concepts, problem formulation, and task statements 2.2. Deep learning for long text generation
+
 3. Existing Methods
+
 3.1. Towards better evaluation for artistic writing
+
 3.2. Better training: reinforcement learning and adversarial training
+
 4. Recent trends
+
 4.1. Multimodal generation
+
 4.2. Extra knowledge combination 4.3. Controllable generation
+
 4.4. Cross-lingual generation
+
 5. Summary and future directions 5.1. Remaining challenges
+
 5.2. Potential solutions
 
 
