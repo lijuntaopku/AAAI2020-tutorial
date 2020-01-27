@@ -1,5 +1,5 @@
 ### Creative and Artistic Writing Via Text Generation
-Juntao Li and Rui Yan
+Juntao Li and Rui Yan(http://ruiyan.me/)
 
 You can use the [editor on GitHub](https://github.com/lijuntaopku/AAAI2020-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,8 +20,7 @@ You can use the [editor on GitHub](https://github.com/lijuntaopku/AAAI2020-tutor
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+(http://ruiyan.me/) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
