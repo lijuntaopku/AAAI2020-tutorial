@@ -20,7 +20,9 @@ You can use the [editor on GitHub](https://github.com/lijuntaopku/AAAI2020-tutor
 2. List
 
 **Bold** and _Italic_ and `Code` text
-(http://ruiyan.me/) and ![Image]
+(http://ruiyan.me/) and 
+
+
 <img src="juntao_li.jpg" width="165" height="200" />
 
 
