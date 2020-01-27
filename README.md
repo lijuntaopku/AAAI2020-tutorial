@@ -20,7 +20,7 @@ You can use the [editor on GitHub](https://github.com/lijuntaopku/AAAI2020-tutor
 2. List
 
 **Bold** and _Italic_ and `Code` text
-(http://ruiyan.me/) and ![Image](juntao_li.jpg)
+(http://ruiyan.me/) and ![Image]<img src="juntao_li.jpg" width="145" height="200" />
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
