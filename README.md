@@ -36,5 +36,5 @@ Building upon our long-term efforts on artistic writing, e.g., story generation 
 
 
 ### Slides and Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The latest slides are avilable [here]().<br>
+This tutorial is also presented on IJCAI'19, Macau, and the previous material can be found [here](https://lijuntaopku.github.io/ijcai2019tutorial/).<br>
