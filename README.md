@@ -43,6 +43,6 @@ Our target audience are researchers and practitioners with some deep learning an
 
 
 ### Slides and Contact
-The latest slides are avilable [here]().<br>
+The latest slides are avilable [here](AAAI20-tutorial.pdf).<br>
 This tutorial is also presented on IJCAI'19, Macau, and the previous material can be found [here](https://lijuntaopku.github.io/ijcai2019tutorial/).<br>
 Any questions are welcomed to contact <lijuntao@pku.edu.cn> and <ruiyan@pku.edu.cn>.
